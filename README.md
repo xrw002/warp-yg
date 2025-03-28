@@ -25,7 +25,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/warp-yg/main/CFwarp.
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh && chmod +x endip.sh && bash endip.sh
 ```
 
-Replit平台一键无限生成WARP-Wireguard配置（须登录fork后才可运行）：https://replit.com/@yonggekkk/WARP-Wireguard-Register
+Replit平台一键无限生成WARP-Wireguard配置（须登录fork后才可运行）：https://replit.com/@xrw002/WARP-Wireguard-Register
 
 --------------------------------------------------------------
 ### 三、Windows平台warp官方客户端优选对端IP应用程序
